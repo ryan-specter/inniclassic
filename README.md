@@ -85,7 +85,11 @@ This is **not** a GitHub "Fork" in the technical sense (it's a separate reposito
 
 There are two ways to get InniClassic onto your Innioasis Y1. Method 1 is recommended for most people — it's a single flash and there's nothing else to install or uninstall afterward.
 
-### Method 1: Innioasis Updater (recommended)
+### Method 1: [Updater CE](https://www.innioasis.app/guide.html) (recommended)
+
+Simply select Y2 as your model, select Inniclassic from the drop-down menu, then select a version and click Install/Restore, you'll be guided through the process from there
+
+### Method 1: Innioasis Updater
 
 The ROM package installs the latest **Y1 Firmware 3.1.2** with **InniClassic** already baked in as the system launcher — no ADB, no manual uninstall step, nothing else to do afterward.
 
